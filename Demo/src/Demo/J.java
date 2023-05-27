@@ -37,5 +37,6 @@ public class J {
 		System.out.println(3.3);
 		System.out.println(d.a(2, 3));
 		System.out.println(d.a(3, 3));
+		System.out.println(d.a(4, 4));
 	}
 }
